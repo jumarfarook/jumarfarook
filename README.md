@@ -1,4 +1,4 @@
-Hi there 👋, I’m @jumarfarook. I'm a Senior Site Reliability Engineer passionate about bringing reliability to users.
+Hi there 👋, I’m @jumarfarook. I'm a Site Reliability Engineer passionate about bringing reliability to users.
 
 👀 My interests are DevOps, SRE and Cloud computing
 
